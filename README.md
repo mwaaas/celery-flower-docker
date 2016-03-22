@@ -33,3 +33,6 @@ port for 5555.
 | AMQP_ADMIN_PORT | Rabbitmq admin port | 15672 |
 | FLOWER_MAX_TASKS | Max tasks to be stored in memory. | 3600 |
 | FLOWER_BASIC_AUTH | Authentication for flower (username:passowrd) | root:changeit |
+
+https://fyljatob:16DprXgangJDanfk7ewRRB9TcfDfMMyU@golden-deer.rmq.cloudamqp.com:15672/api/
+https://fyljatob:16DprXgangJDanfk7ewRRB9TcfDfMMyU@golden-deer.rmq.cloudamqp.com/api/
