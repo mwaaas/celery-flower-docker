@@ -1,5 +1,3 @@
-
-# BROKER_URL = "amqp://fyljatob:16DprXgangJDanfk7ewRRB9TcfDfMMyU@golden-deer.rmq.cloudamqp.com/fyljatob"
 flower:
   build: .
   environment:
