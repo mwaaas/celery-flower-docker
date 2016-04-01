@@ -1,0 +1,8 @@
+flower:
+  image: mwaaas/celery-flower-docker
+  environment:
+    - AMQP_USERNAME=*** your amqp username ***
+    - AMQP_PASSWORD=*** your amqp password *****
+    - AMQP_HOST=* your amqp host ****
+  ports:
+    - 5555:5555
